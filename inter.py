@@ -1,6 +1,5 @@
 import sys
 import time
-import pyautogui
 
 fc = open(sys.argv[1]).read().replace('\n','')
 
